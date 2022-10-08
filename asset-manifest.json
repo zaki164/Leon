@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/.github.io/Leon/static/css/main.0ca56658.css",
-    "main.js": "/.github.io/Leon/static/js/main.db6c7088.js",
-    "static/media/landing.jpg": "/.github.io/Leon/static/media/landing.24ec9aeb7fc32bdfed56.jpg",
-    "static/media/portfolio-2.jpg": "/.github.io/Leon/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
-    "static/media/about.jpg": "/.github.io/Leon/static/media/about.266b02f6defdcd810958.jpg",
-    "static/media/portfolio-3.jpg": "/.github.io/Leon/static/media/portfolio-3.63308af3b31761c87be5.jpg",
-    "static/media/services.jpg": "/.github.io/Leon/static/media/services.fcd5e7c86ab060bca4a0.jpg",
-    "static/media/portfolio-1.jpg": "/.github.io/Leon/static/media/portfolio-1.77c42523467d675cef53.jpg",
-    "index.html": "/.github.io/Leon/index.html",
-    "main.0ca56658.css.map": "/.github.io/Leon/static/css/main.0ca56658.css.map",
-    "main.db6c7088.js.map": "/.github.io/Leon/static/js/main.db6c7088.js.map"
+    "main.css": "/Leon/static/css/main.e527af16.css",
+    "main.js": "/Leon/static/js/main.c7fa4e2f.js",
+    "static/media/landing.jpg": "/Leon/static/media/landing.24ec9aeb7fc32bdfed56.jpg",
+    "static/media/portfolio-2.jpg": "/Leon/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
+    "static/media/about.jpg": "/Leon/static/media/about.266b02f6defdcd810958.jpg",
+    "static/media/portfolio-3.jpg": "/Leon/static/media/portfolio-3.63308af3b31761c87be5.jpg",
+    "static/media/services.jpg": "/Leon/static/media/services.fcd5e7c86ab060bca4a0.jpg",
+    "static/media/portfolio-1.jpg": "/Leon/static/media/portfolio-1.77c42523467d675cef53.jpg",
+    "index.html": "/Leon/index.html",
+    "main.e527af16.css.map": "/Leon/static/css/main.e527af16.css.map",
+    "main.c7fa4e2f.js.map": "/Leon/static/js/main.c7fa4e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca56658.css",
-    "static/js/main.db6c7088.js"
+    "static/css/main.e527af16.css",
+    "static/js/main.c7fa4e2f.js"
   ]
 }
