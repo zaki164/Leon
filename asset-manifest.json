@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/.github.io./Leon/static/css/main.21959fad.css",
+    "main.js": "/.github.io./Leon/static/js/main.0ca64128.js",
+    "static/media/landing.jpg": "/.github.io./Leon/static/media/landing.24ec9aeb7fc32bdfed56.jpg",
+    "static/media/portfolio-2.jpg": "/.github.io./Leon/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
+    "static/media/about.jpg": "/.github.io./Leon/static/media/about.266b02f6defdcd810958.jpg",
+    "static/media/portfolio-3.jpg": "/.github.io./Leon/static/media/portfolio-3.63308af3b31761c87be5.jpg",
+    "static/media/services.jpg": "/.github.io./Leon/static/media/services.fcd5e7c86ab060bca4a0.jpg",
+    "static/media/portfolio-1.jpg": "/.github.io./Leon/static/media/portfolio-1.77c42523467d675cef53.jpg",
+    "index.html": "/.github.io./Leon/index.html",
+    "main.21959fad.css.map": "/.github.io./Leon/static/css/main.21959fad.css.map",
+    "main.0ca64128.js.map": "/.github.io./Leon/static/js/main.0ca64128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21959fad.css",
+    "static/js/main.0ca64128.js"
+  ]
+}
